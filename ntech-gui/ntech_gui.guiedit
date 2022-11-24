@@ -1,0 +1,26 @@
+/*
+	NTech GUI Large
+*/
+$[
+	1.063,
+	["ntech_gui_large",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1800,"ntech_gui_large_frame",[2,"",["0 * GUI_GRID_W + GUI_GRID_X","0 * GUI_GRID_H + GUI_GRID_Y","40 * GUI_GRID_W","25 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2200,"ntech_gui_large_background",[2,"",["0 * GUI_GRID_W + GUI_GRID_X","0 * GUI_GRID_H + GUI_GRID_Y","40 * GUI_GRID_W","25 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1100,"ntech_gui_large_header",[2,"",["0 * GUI_GRID_W + GUI_GRID_X","0 * GUI_GRID_H + GUI_GRID_Y","38 * GUI_GRID_W","1 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2700,"ntech_gui_large_close",[2,"[X]",["38 * GUI_GRID_W + GUI_GRID_X","0 * GUI_GRID_H + GUI_GRID_Y","2 * GUI_GRID_W","1 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+// Large menu default
+$[
+	1.063,
+	["ntech_gui_large_menu_default",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1600,"ntech_gui_large_menu_default_ok",[2,"Ok",["32 * GUI_GRID_W + GUI_GRID_X","22 * GUI_GRID_H + GUI_GRID_Y","7 * GUI_GRID_W","2 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1601,"ntech_gui_large_menu_default_cancel",[2,"Cancel",["23 * GUI_GRID_W + GUI_GRID_X","22 * GUI_GRID_H + GUI_GRID_Y","7 * GUI_GRID_W","2 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+// Large menu trade (part)
+$[
+	1.063,
+	["ntech_gui_large_menu_trade",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1100,"ntech_gui_large_menu_trade_pricetxt",[2,"Price:",["23 * GUI_GRID_W + GUI_GRID_X","20 * GUI_GRID_H + GUI_GRID_Y","5 * GUI_GRID_W","1 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1101,"ntech_gui_large_menu_trade_pricetype",[2,"Credits",["34 * GUI_GRID_W + GUI_GRID_X","20 * GUI_GRID_H + GUI_GRID_Y","5 * GUI_GRID_W","1 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1000,"ntech_gui_large_menu_trade_pricevalue",[2,"000.000.000",["28 * GUI_GRID_W + GUI_GRID_X","20 * GUI_GRID_H + GUI_GRID_Y","6 * GUI_GRID_W","1 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+]

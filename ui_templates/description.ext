@@ -1,0 +1,10 @@
+author = "Karel Moricky";
+onLoadName = "Template: UI Controls";
+overviewPicture = "moricky_uiControls_ca.paa";
+briefing = 0;
+debriefing = 0;
+doneKeys[] = {"moricky_uiControls"};
+
+#include "defines.hpp"
+#include "RscTestControlTypes.hpp"
+#include "RscTestControlStyles.hpp"

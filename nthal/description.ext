@@ -1,0 +1,5 @@
+#include "common.hpp"
+// #include "ntech_hire.hpp"
+// #include "newcommon.hpp"
+#include "ntech_recruit.hpp"
+#include "ntech_squadmanager.hpp"
